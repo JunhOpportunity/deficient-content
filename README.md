@@ -7,6 +7,10 @@
 - 페이지 네이션
 - 뷰 포트
 - Tree Shaking
+- SOLID
+- CSRF
+- 전략 패턴
+- 옵저버  패턴
 
 ## PWA
 ### 특징
