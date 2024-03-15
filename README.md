@@ -11,6 +11,8 @@
 - CSRF
 - 전략 패턴
 - [옵저버  패턴](https://github.com/JunhOpportunity/cs/tree/main/DesignPattern)
+- Tree Shaking
+- 어댑터 패턴
 
 ## PWA
 ### 특징
