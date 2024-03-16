@@ -13,6 +13,8 @@
 - [옵저버  패턴](https://github.com/JunhOpportunity/cs/tree/main/DesignPattern)
 - Tree Shaking
 - 어댑터 패턴
+- 추상화
+- 캡슐화
 
 ## PWA
 ### 특징
@@ -170,3 +172,7 @@ arr.map((a) => { ... })
 import, export로 정의된 모듈만 tree shaking이 가능하다. 따라서 모듈을 import하는 방법이 tree shaking 가능 여부를 결정짓게된다.
 
 **따라서, 만약 특정 모듈에 함수 a와 b가 존재할 때 a만 import 하는 경우에는 b는 tree shaking이 이루어지지 않는다.**
+
+# 캡슐화
+캡슐화는 객체지향 프로그래밍에서 주로 사용되는 개념으로, 데이터와 해당 데이터를 조작하는 메서드 또는 함수를 하나의 단위로 묶는 것
+이렇게 함으로써 데이터에 대한 접근을 제한하고, 외부에서 데이터에 직접 접근할 수 없도록 보호할 수 있다.
